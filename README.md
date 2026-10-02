@@ -156,5 +156,3 @@ Insights
 This project demonstrates how Microsoft Excel can be used to transform a raw dataset into a structured and visual analysis.
 
 The workflow covers the important stages of a basic data analysis process: **cleaning → transformation → analysis → visualization**.
-
-This project was created as part of my learning journey toward becoming a **Data Analyst**.
